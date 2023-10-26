@@ -18,6 +18,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.6.3",
     "nodemon": "^3.0.1",
-    "stripe": "^14.1.0"
+    "stripe": "^14.1.0",
+    "vercel": "^32.5.0"
   }
 }
